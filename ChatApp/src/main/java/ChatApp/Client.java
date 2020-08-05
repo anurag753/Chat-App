@@ -1,4 +1,4 @@
-package ChatApp;
+
 import java.io.*;
 import java.net.*;
 import javax.swing.*;
